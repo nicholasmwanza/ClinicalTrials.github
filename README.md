@@ -1,6 +1,6 @@
 # AI-Assisted Adaptive Clinical Trial for Early Treatment Failure in Type 2 Diabetes
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an **AI-assisted adaptive clinical trial framework** designed to identify and respond to **early treatment failure in patients with Type 2 Diabetes Mellitus (T2DM)**. The study integrates **machine learning–based risk prediction**, **adaptive trial design**, and **real-world data simulation** to improve personalized treatment decision-making and trial efficiency.
 
@@ -8,7 +8,7 @@ Traditional clinical trials in diabetes often rely on static treatment allocatio
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The project is guided by the following objectives:
 
@@ -18,7 +18,7 @@ The project is guided by the following objectives:
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 * **Study Design:** Simulated adaptive clinical trial
 * **Data:** Synthetic dataset representing 1,000 participants with Type 2 Diabetes
@@ -33,7 +33,7 @@ The adaptive framework uses model-predicted risk levels to guide treatment escal
 
 ---
 
-## 📊 Key Components
+##  Key Components
 
 * Data preprocessing and feature engineering
 * Machine learning model development and evaluation
@@ -43,21 +43,21 @@ The adaptive framework uses model-predicted risk levels to guide treatment escal
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 ClinicalTrials.github/
 │
 ├── AI-Assisted Adaptive Clinical Trial for Early Treatment Failure in Type 2 Diabetes.ipynb
 ├── README.md
-├── data/                # (Optional) datasets or synthetic data
-├── figures/             # (Optional) plots and visual outputs
-└── docs/                # (Optional) reports or manuscripts
+├── data/                
+├── figures/             
+└── docs/                
 ```
 
----
+--
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 * Python
 * Jupyter Notebook
@@ -68,7 +68,7 @@ ClinicalTrials.github/
 
 ---
 
-## 📈 Expected Outcomes
+##  Expected Outcomes
 
 * Improved identification of patients at risk of early treatment failure
 * Reduced failure rates in the AI-adaptive trial arm
@@ -85,9 +85,9 @@ The framework is **not intended for direct clinical use** without proper validat
 
 ---
 
-## 👤 Author
+##  Author
 
-**Chrispine Buxtone Ooko**
+**Nicholas Mwanza**
 Applied Statistics / Data Science
 AI-Assisted Clinical Trial Research
 
